@@ -1,8 +1,8 @@
 {
     "name": "Basic Kubernetes Pod",
     "id": "com.github.LavKushwaha01.templates.basic-pod-template",
-    "author": "YOUR_NAME",
-    "version": "1.0.0",
+    "author": "lav kushwaha",
+    "version": "1.1.0",
     "description": "Creates a Pod for a specified Image",
     "repository": "",
     "type": "vanilla",
@@ -20,6 +20,6 @@
       }
     ],
     "resultMessage": "Pod resource created successfully!",
-    "helpUrl": "https://github.com/LavKushwaha01/demo_template.git"
+    "helpUrl": "https://github.com/LavKushwaha01/demo_template"
   }
   
