@@ -3,7 +3,7 @@
     "description": "Custom templates plugin",
     "version": "1.0.0",
     "author": "Lav kushwaha",
-    "repository": "https://github.com/LavKushwaha01/demo_template.git",
+    "repository": "https://github.com/LavKushwaha01/demo_template",
     "monoklePlugin": {
       "modules": [
         {
