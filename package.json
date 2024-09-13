@@ -5,7 +5,11 @@
     "author": "Lav kushwaha",
     "repository": "https://github.com/LavKushwaha01/demo_template",
     "monoklePlugin": {
-      "modules": []
-       
+      "modules": [
+      {
+        "type": "template",
+        "path": "basic-pod-template"
+      }
+    ]
     }
   }
