@@ -1,7 +1,7 @@
 {
     "name": "Template plugins",
     "description": "Custom templates plugin",
-    "version": "1.1.0",
+    "version": "1.26.3",
     "author": "Lav kushwaha",
     "repository": "https://github.com/LavKushwaha01/demo_template",
     "monoklePlugin": {

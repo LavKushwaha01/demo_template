@@ -2,7 +2,7 @@
     "name": "Basic Kubernetes Pod",
     "id": "com.github.LavKushwaha01.templates.basic-pod-template",
     "author": "lav kushwaha",
-    "version": "1.1.0",
+    "version": "1.26.3",
     "description": "Creates a Pod for a specified Image",
     "repository": "",
     "type": "vanilla",
